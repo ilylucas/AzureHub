@@ -1,8 +1,2 @@
 # Azure Hub
-Pro Hub
-
-### Currently Supported Games:
-* Slap Battles
-    * Slap Royale
-    * No Oneshots and Killstreak Only
-    
+deprecated script my first project OkBye i like this project so im keeping it ok
